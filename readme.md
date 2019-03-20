@@ -1,3 +1,8 @@
+# Grade:(No grade yet, need demo)
+* NOTE: I need to see you demo this lab for me to make sure it runs correctly. I'm not going to configure a C++ environment to test this out.
+* I'm not taking off for using C++ Since I didn't provide feedback earlier. But you can't submit any more labs in C++. They need to be in C. C is a different language with different challenges than C++. 
+* Didn't make separate header & implementation files for each data structure
+
 # Lab 1.5
 
 **Objective**: The objective of this lab is to get better understanding of C. You will do this by building the following data structures.  Each of these data structures should be in their own `.h/.c` files.
